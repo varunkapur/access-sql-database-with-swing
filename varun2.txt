@@ -1,0 +1,26 @@
+package varun;
+
+
+
+/**
+ *
+ * @author srlab6
+ */
+public class Varun {
+
+    static int count=0;
+    static String counter;
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        
+         
+        
+         
+      
+         
+
+    }
+}
+
